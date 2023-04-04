@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T06:55:56.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yc4zZRaR5t9ZjaUkDF9X" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:12:05.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YhSlsr8VKN28Dnlgv_AX" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="2262" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
             <mxPoint x="-349" y="1275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-127" value="Anomaly detection&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-127" value="Anomaly remedy&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="960" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-128" value="RAO01.&amp;nbsp;Check type of aomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -446,7 +446,85 @@
           <mxGeometry x="110" y="1050" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-132" value="RAO05. report incident &lt;br&gt;when remedy fail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1120" width="160" height="50" as="geometry" />
+          <mxGeometry x="110" y="1202.5" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-135" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-127" target="SL4sinLKfhVQvQPkShJp-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="1020" as="sourcePoint" />
+            <mxPoint x="-510" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-136" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-127" target="SL4sinLKfhVQvQPkShJp-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="990" as="sourcePoint" />
+            <mxPoint x="120" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-137" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="980" as="sourcePoint" />
+            <mxPoint x="120" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-138" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="980" as="sourcePoint" />
+            <mxPoint x="120" y="1012" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-139" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-127" target="SL4sinLKfhVQvQPkShJp-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="990" as="sourcePoint" />
+            <mxPoint x="120" y="1085" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-140" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-141" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-142" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-140" target="SL4sinLKfhVQvQPkShJp-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="575" as="sourcePoint" />
+            <mxPoint x="-140" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-143" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-141" target="SL4sinLKfhVQvQPkShJp-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="1020" as="sourcePoint" />
+            <mxPoint x="280" y="1155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-145" value="Generating report&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="970" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-146" value="GRM01. enter period &lt;br&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="830" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-147" value="RAO06. Store result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1127.5" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-148" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="980" as="sourcePoint" />
+            <mxPoint x="120" y="1085" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-149" value="GRM02. retieve anomaly management&amp;nbsp;&lt;br&gt;for given period" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="900" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-150" value="GRM03. retieve report&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="970" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-151" value="DAO09. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1390" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-152" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-92" target="SL4sinLKfhVQvQPkShJp-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="1020" as="sourcePoint" />
+            <mxPoint x="-510" y="1345" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
