@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T04:52:52.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VBMaU6xLT20euB1-1J0Y" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T04:54:01.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IIQ2F3cLL3FcyiMP9plq" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="1421" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,12 @@
             <mxPoint x="-620" y="520" as="sourcePoint" />
             <mxPoint x="-540" y="575" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-50" value="WPM05. User log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="670" width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-51" value="WPM05. User log out" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="740" width="163" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
