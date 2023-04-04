@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T05:50:00.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aPwyghG5pSb5ObT771Ur" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T05:51:21.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0geCgz4sonbJGcPkMH3_" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="1158" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,6 +272,45 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="557.5" as="sourcePoint" />
             <mxPoint x="230" y="612.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-83" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="537.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-84" value="RMM01. Register &lt;br&gt;Remedy Method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="457.5" width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-85" value="RMM02. Retieve registered Remedy Method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="517.5" width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-86" value="RMM03. Modify registered Remedy Method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="577.5" width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-87" value="RMM04. Unregister &lt;br&gt;Remedy Method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="642.5" width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-88" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-83" target="SL4sinLKfhVQvQPkShJp-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="717.5" as="sourcePoint" />
+            <mxPoint x="740" y="667.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="557.5" as="sourcePoint" />
+            <mxPoint x="540" y="492.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="557.5" as="sourcePoint" />
+            <mxPoint x="540" y="552.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SL4sinLKfhVQvQPkShJp-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="557.5" as="sourcePoint" />
+            <mxPoint x="540" y="612.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
