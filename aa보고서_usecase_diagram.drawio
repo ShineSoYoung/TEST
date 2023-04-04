@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T04:50:07.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lSaDMeNIjDcARGnYRe0c" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T04:50:21.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wjn8KRUIcNCsfYVVJbmU" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="1421" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,13 +127,13 @@
         <mxCell id="SL4sinLKfhVQvQPkShJp-42" value="WPM01. Register &lt;br&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="420" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02. View registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-43" value="WPM01. Register&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="480" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM03. Update registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-44" value="WPM01. Register&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="540" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM04. Unregister &lt;br&gt;Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-45" value="WPM01. Register&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="605" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-41" target="SL4sinLKfhVQvQPkShJp-42">
