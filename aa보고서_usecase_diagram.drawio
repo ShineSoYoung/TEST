@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T06:50:56.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2g6ZUn8zWRQ5ux_sanL-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T06:55:56.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yc4zZRaR5t9ZjaUkDF9X" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
-    <mxGraphModel dx="1691" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,19 +121,19 @@
             <mxPoint x="250" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-41" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="545" width="30" height="60" as="geometry" />
+        <mxCell id="SL4sinLKfhVQvQPkShJp-41" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="546" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-42" value="WPM01. Register &lt;br&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-42" value="WPM01. Register &lt;br&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="420" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-43" value="WPM02. Retieve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-43" value="WPM02. Retieve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="480" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-44" value="WPM03. Modify&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-44" value="WPM03. Modify&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="540" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-45" value="WPM04. Unregister&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;user profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-45" value="WPM04. Unregister&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="605" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-41" target="SL4sinLKfhVQvQPkShJp-42">
@@ -160,10 +160,10 @@
             <mxPoint x="-540" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-50" value="WPM05. User log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-50" value="WPM05. Worker log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="670" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-51" value="WPM05. User log out" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-51" value="WPM05. Worker log out" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="730" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4sinLKfhVQvQPkShJp-41" target="SL4sinLKfhVQvQPkShJp-50">
@@ -444,6 +444,9 @@
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-131" value="RAO04. Check remedy action result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1050" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-132" value="RAO05. report incident &lt;br&gt;when remedy fail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1120" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
