@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T04:40:29.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yHz3oqh0XwXmp56Z5w2C" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T04:40:56.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4SRih17hw5yM2OA0SiBu" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="1451" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="SL4sinLKfhVQvQPkShJp-4" value="MPM02. View registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="120" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-5" value="MPM03. Update registered Manufaturing plant info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-5" value="MPM03. Update registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="180" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-6" value="MPM04. Uregiste Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="SL4sinLKfhVQvQPkShJp-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02. View registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="120" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM03. Update registered Managed Object info&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM03. Update registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="180" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM04. Unregister &lt;br&gt;Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
         <mxCell id="SL4sinLKfhVQvQPkShJp-32" value="HDM02. View registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-33" value="HDM03. Update registered Hardware device info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-33" value="HDM03. Update registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-34" value="HDM04. Unregister &lt;br&gt;Hardware device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
