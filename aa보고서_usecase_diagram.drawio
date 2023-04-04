@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T06:40:40.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r_6ID--BOA3MPE5IlbM7" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T06:50:56.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2g6ZUn8zWRQ5ux_sanL-" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
-    <mxGraphModel dx="1488" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1691" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,21 @@
             <mxPoint x="-240" y="1300" as="sourcePoint" />
             <mxPoint x="-349" y="1275" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-127" value="Anomaly detection&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="960" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-128" value="RAO01.&amp;nbsp;Check type of aomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="830" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-129" value="RAO02.&amp;nbsp;Choose appropriate remedy method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="900" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-130" value="RAO03. Apply selected remedy method" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="977" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-131" value="RAO04. Check remedy action result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1050" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
