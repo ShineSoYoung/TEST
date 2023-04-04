@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T07:12:05.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YhSlsr8VKN28Dnlgv_AX" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:13:27.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="p7pc2DakqKD5BhfoZAiZ" version="21.1.1" type="github">
   <diagram name="페이지-1" id="J1Gyva_0x2IWe9NpJs1t">
     <mxGraphModel dx="2262" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
         <mxCell id="SL4sinLKfhVQvQPkShJp-149" value="GRM02. retieve anomaly management&amp;nbsp;&lt;br&gt;for given period" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="900" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SL4sinLKfhVQvQPkShJp-150" value="GRM03. retieve report&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SL4sinLKfhVQvQPkShJp-150" value="GRM03. retieve anomaly management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="970" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SL4sinLKfhVQvQPkShJp-151" value="DAO09. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -525,6 +525,9 @@
             <mxPoint x="-730" y="1020" as="sourcePoint" />
             <mxPoint x="-510" y="1345" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SL4sinLKfhVQvQPkShJp-153" value="GRM04. delete anomaly management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1050" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
