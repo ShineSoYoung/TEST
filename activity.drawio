@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T05:57:21.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hAMVy_VKbjzYB8cx1aJX" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T06:02:02.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iTvhhxyA4IMZT0Mfk--F" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="4300" dy="3168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3600" dy="2781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,19 +41,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="425" y="-1200" width="130" height="81" as="geometry" />
+          <mxGeometry x="120" y="-830" width="134.56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-7" value="" style="group" vertex="1" connectable="0" parent="ijbx-1r0AyTPYO9ze0CY-6">
-          <mxGeometry x="4.76413779925639" width="125.23586220074361" height="81" as="geometry" />
+          <mxGeometry x="9.32" width="125.24" height="40.37407407407407" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-8" value="&amp;nbsp; &amp;nbsp;receive detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-7">
-          <mxGeometry width="125.23586220074361" height="60" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-412" value="" style="group" vertex="1" connectable="0" parent="ijbx-1r0AyTPYO9ze0CY-7">
+          <mxGeometry x="-10" y="-2.59" width="135.23999999999998" height="32.59" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-7">
-          <mxGeometry x="0.2400000000000002" y="1" width="20" height="59" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-8" value="&amp;nbsp; &amp;nbsp;receive detection anomaly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-412">
+          <mxGeometry x="10" y="2.59" width="125.23999999999998" height="27.983539094650208" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-15" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-6">
-          <mxGeometry x="0.0041377992563980115" y="1.5" width="9.32" height="58" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-412">
+          <mxGeometry x="10.240007929612206" y="3.05639231824417" width="20.000660801017162" height="27.51714677640604" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-15" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-412">
+          <mxGeometry width="20" height="32.59" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-90" value="is plant registerd?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1140" width="145" height="30" as="geometry" />
@@ -1260,9 +1263,9 @@
           <mxGeometry x="-578" y="-400" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-403" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-180" y="-330" width="140" height="30" as="geometry" />
+          <mxGeometry x="-220" y="-330" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-404" value="send anomaly detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-403">
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-404" value="send detecting anomaly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-403">
           <mxGeometry width="115.86206896551725" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-405" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ijbx-1r0AyTPYO9ze0CY-403" target="ijbx-1r0AyTPYO9ze0CY-404">
@@ -1304,6 +1307,18 @@
               <mxPoint x="-1209" y="-182" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-413" value="view report" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-780" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-414" value="Detecting Anomaly Occurrences" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;" vertex="1" parent="1">
+          <mxGeometry x="66.84" y="-1020" width="193.16" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-415" value="Remedying Anomaly Occurrences" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;" vertex="1" parent="1">
+          <mxGeometry x="66.84" y="-970" width="193.16" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-416" value="Generating Reports Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;" vertex="1" parent="1">
+          <mxGeometry x="66.84" y="-920" width="193.16" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
