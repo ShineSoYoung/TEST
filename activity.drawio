@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T05:52:29.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4J6VwqQlOvhlGlDSc3Us" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T05:52:57.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-0Lehq-LV7_NdYMRbaXf" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="4883" dy="3491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6750" dy="4524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,21 @@
             <mxPoint x="120" y="58.10000000000002" as="sourcePoint" />
             <mxPoint x="120" y="1" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="425" y="-1200" width="130" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-7" value="" style="group" vertex="1" connectable="0" parent="ijbx-1r0AyTPYO9ze0CY-6">
+          <mxGeometry x="4.76413779925639" width="125.23586220074361" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-8" value="&amp;nbsp; &amp;nbsp;receive detect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-7">
+          <mxGeometry width="125.23586220074361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-7">
+          <mxGeometry x="0.2400000000000002" y="1" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-15" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-6">
+          <mxGeometry x="0.0041377992563980115" y="1.5" width="9.32" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-90" value="is plant registerd?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1140" width="145" height="30" as="geometry" />
