@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T06:47:49.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aDvB33Idyq2xqb0hFR-C" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T06:50:20.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="feuP_o2v0tCXt2Fcfze3" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="3730" dy="3032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1333,7 +1333,7 @@
           <mxGeometry x="36.94" y="-617.65" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-433" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-450" width="140" height="40" as="geometry" />
+          <mxGeometry x="50" y="-230" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-434" value="send start anomaly detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-433">
           <mxGeometry width="115.86206896551725" height="40" as="geometry" />
@@ -1602,21 +1602,6 @@
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-512" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-509">
           <mxGeometry width="30.07824976045992" height="48.43207045225209" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-428" value="make dataset" style="html=1;whiteSpace=wrap;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-508">
-          <mxGeometry x="21.660000000000025" y="58" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-514" value="data preprocessing" style="html=1;whiteSpace=wrap;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-508">
-          <mxGeometry x="21.660000000000025" y="101.26999999999998" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-515" value="training ML model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="-643.3" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-516" value="training ML model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="-598.4499999999999" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-517" value="choose appropriate &lt;br&gt;ML model&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290.00000000000006" y="-690" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-518" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="-551.63" width="140" height="40" as="geometry" />
         </mxCell>
@@ -1663,10 +1648,10 @@
           <mxGeometry x="29.17999999999995" y="90.80999999999995" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-529" value="choose statistical mehod" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530.0000000000001" y="-704.88" width="130" height="30" as="geometry" />
+          <mxGeometry x="41.66000000000014" y="-330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-534" value="training ML model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-660" width="130" height="30" as="geometry" />
+          <mxGeometry x="41.660000000000025" y="-285.12" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-535" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="530" y="-620" width="140" height="40" as="geometry" />
@@ -1692,29 +1677,20 @@
             <mxPoint x="115.86206896551725" y="0.6666666666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-540" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-19.999124880229942" y="-573.9990046784699" width="203.38912488022993" height="48.43207045225209" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-428" value="make dataset" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41.660000000000025" y="-560" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-541" value="receive start &lt;br&gt;anomaly detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-540">
-          <mxGeometry x="15.0375" y="3.85" width="172.4625" height="41.59" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-514" value="data preprocessing" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41.660000000000025" y="-516.73" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-542" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-540">
-          <mxGeometry x="15.400075802798298" y="4.542111325158752" width="30.079243547361724" height="40.89329215464433" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-515" value="training ML model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="-425.15" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-543" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-540">
-          <mxGeometry width="30.07824976045992" height="48.43207045225209" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-516" value="training ML model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="-380.29999999999995" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-544" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-14.999124880229942" y="-518.2990046784698" width="203.38912488022993" height="48.43207045225209" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-545" value="receive start &lt;br&gt;anomaly detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-544">
-          <mxGeometry x="15.0375" y="3.85" width="172.4625" height="41.59" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-546" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-544">
-          <mxGeometry x="15.400075802798298" y="4.542111325158752" width="30.079243547361724" height="40.89329215464433" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-547" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-544">
-          <mxGeometry width="30.07824976045992" height="48.43207045225209" as="geometry" />
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-517" value="choose appropriate &lt;br&gt;ML model&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40.00000000000006" y="-471.85" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
