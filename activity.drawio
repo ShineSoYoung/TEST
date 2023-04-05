@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T06:02:02.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iTvhhxyA4IMZT0Mfk--F" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T06:06:12.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qNTV1bf0wEbVTeXViqTs" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="3600" dy="2781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3258" dy="2699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="-830" width="134.56" height="60" as="geometry" />
+          <mxGeometry x="120" y="-830" width="136.94" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-7" value="" style="group" vertex="1" connectable="0" parent="ijbx-1r0AyTPYO9ze0CY-6">
           <mxGeometry x="9.32" width="125.24" height="40.37407407407407" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-15" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#ffffff;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-412">
           <mxGeometry width="20" height="32.59" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-417" value="check manufacturing profile" style="html=1;whiteSpace=wrap;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-6">
+          <mxGeometry x="6.939999999999998" y="50" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-90" value="is plant registerd?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1140" width="145" height="30" as="geometry" />
@@ -1319,6 +1322,24 @@
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-416" value="Generating Reports Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;" vertex="1" parent="1">
           <mxGeometry x="66.84" y="-920" width="193.16" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-425" value="check hw device" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-730" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-426" value="check managed object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-681" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-427" value="check aomaly type" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-631" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-428" value="make dataset" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-429" value="choose appropriate model&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-530" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-430" value="choose statistical mehod" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="126.94" y="-480" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
