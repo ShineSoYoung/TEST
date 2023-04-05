@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T05:53:55.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G-K3hGNECLVEiGmEMZ0a" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T05:55:14.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="24X4R4SEaPEMOOl-rHpP" version="21.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="4050" dy="3030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-307" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-383" y="-231.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-308" value="generating report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-307">
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-308" value="send generating report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-307">
           <mxGeometry width="115.86206896551725" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-309" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ijbx-1r0AyTPYO9ze0CY-307" target="ijbx-1r0AyTPYO9ze0CY-308">
@@ -839,7 +839,7 @@
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-231" value="" style="group" vertex="1" connectable="0" parent="ijbx-1r0AyTPYO9ze0CY-321">
           <mxGeometry x="30" y="430.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-232" value="generating report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-231">
+        <mxCell id="ijbx-1r0AyTPYO9ze0CY-232" value="send generating report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ijbx-1r0AyTPYO9ze0CY-231">
           <mxGeometry width="115.86206896551725" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-233" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ijbx-1r0AyTPYO9ze0CY-231" target="ijbx-1r0AyTPYO9ze0CY-232">
@@ -1258,9 +1258,6 @@
         </mxCell>
         <mxCell id="ijbx-1r0AyTPYO9ze0CY-399" value="&amp;nbsp;remedy method Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;" vertex="1" parent="1">
           <mxGeometry x="-578" y="-400" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ijbx-1r0AyTPYO9ze0CY-401" value="start anomaly detect" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-330" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
