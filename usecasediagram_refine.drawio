@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T15:41:25.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="f9InRmp2SZwvK18sbG5A" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T15:45:29.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XLYv2iPXNws2gamzqvsN" version="21.1.8" type="github">
   <diagram name="페이지-1" id="GtLDHEmWN3uCnMpsGGqO">
     <mxGraphModel dx="2736" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,17 +466,8 @@
             <mxPoint x="120" y="1085" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-106" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1217.5" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-107" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="1342.5" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-108" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-106" target="ZL6FqzTWpidE5rbKrD5R-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="632.5" as="sourcePoint" />
-            <mxPoint x="-110" y="822.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-109" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-107" target="ZL6FqzTWpidE5rbKrD5R-100">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -553,12 +544,6 @@
             <mxPoint x="930" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-127" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-111" target="ZL6FqzTWpidE5rbKrD5R-141">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1343.75" as="sourcePoint" />
-            <mxPoint x="280" y="1391.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-128" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-114" target="ZL6FqzTWpidE5rbKrD5R-142">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="1105" as="sourcePoint" />
@@ -569,12 +554,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="1175" as="sourcePoint" />
             <mxPoint x="660" y="1032.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-130" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-118" target="ZL6FqzTWpidE5rbKrD5R-141">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="1165.75" as="sourcePoint" />
-            <mxPoint x="670" y="936.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-131" value="Manufacturing Plant Management&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
@@ -607,9 +586,6 @@
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-140" value="Generating Reports Management&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
           <mxGeometry x="920" y="950" width="221.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-141" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1080" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-142" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="1190" width="30" height="60" as="geometry" />
         </mxCell>
@@ -623,18 +599,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="1325.5" as="sourcePoint" />
             <mxPoint x="660" y="1032.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-147" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-115" target="ZL6FqzTWpidE5rbKrD5R-141">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="1156.25" as="sourcePoint" />
-            <mxPoint x="670" y="846.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-148" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-114" target="ZL6FqzTWpidE5rbKrD5R-141">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="1166.25" as="sourcePoint" />
-            <mxPoint x="670" y="846.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-150" value="GRM05. retrieve anomaly management report given period" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
