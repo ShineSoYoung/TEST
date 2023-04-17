@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T01:17:18.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AiTL3unQbJ5INoAtgIln" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:25:26.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XkhLPfgKJpjOR3GlR6li" version="21.1.8" type="github">
   <diagram name="페이지-1" id="GtLDHEmWN3uCnMpsGGqO">
-    <mxGraphModel dx="3160" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4327" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,16 +316,16 @@
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-72" value="Anomaly detection&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="990" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-74" value="DAO02. Check Hardware devices connectivity and registered data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-74" value="DAO01. Check Hardware devices connectivity and registered data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="890" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-77" value="DAO05. Acquire Sensor data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-77" value="DAO02. Acquire Sensor data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-518.5" y="975" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-79" value="DAO07. choose appropriate method to detect&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-79" value="DAO04. choose appropriate method to detect&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="1121.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-80" value="DAO09. detect anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-80" value="DAO05. detect anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-517.75" y="1200" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-81" value="ML&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=4" parent="1" vertex="1">
@@ -365,63 +365,63 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-95" value="Anomaly remedy&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="960" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="965" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-96" value="RAO01.&amp;nbsp;Check type of aomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="887.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="340" y="892.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-97" value="RAO02.&amp;nbsp;Choose appropriate remedy method" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="957.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="340" y="962.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-98" value="RAO03. Apply selected remedy method" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1034.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="340" y="1039.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL6FqzTWpidE5rbKrD5R-95" target="ZL6FqzTWpidE5rbKrD5R-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-730" y="1020" as="sourcePoint" />
-            <mxPoint x="-510" y="855" as="targetPoint" />
+            <mxPoint x="-530" y="1025" as="sourcePoint" />
+            <mxPoint x="-310" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL6FqzTWpidE5rbKrD5R-95" target="ZL6FqzTWpidE5rbKrD5R-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="990" as="sourcePoint" />
-            <mxPoint x="120" y="865" as="targetPoint" />
+            <mxPoint x="180" y="995" as="sourcePoint" />
+            <mxPoint x="320" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ZL6FqzTWpidE5rbKrD5R-98" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="980" as="sourcePoint" />
-            <mxPoint x="120" y="935" as="targetPoint" />
+            <mxPoint x="170" y="985" as="sourcePoint" />
+            <mxPoint x="320" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-105" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL6FqzTWpidE5rbKrD5R-95" target="uAiA5wy59eTJabDKRuq2-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="990" as="sourcePoint" />
-            <mxPoint x="140" y="1455" as="targetPoint" />
+            <mxPoint x="170" y="995" as="sourcePoint" />
+            <mxPoint x="340" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-107" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="1216.25" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="1221.25" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-110" value="Generating report&lt;br&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1370" width="30" height="60" as="geometry" />
+          <mxGeometry x="890" y="1305" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-111" value="GRM01. enter period &lt;br&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1121.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-112" value="RAO06. Store result of remedy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1352.5" width="160" height="50" as="geometry" />
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-112" value="RAO07. Store result of remedy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1357.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-113" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ZL6FqzTWpidE5rbKrD5R-112" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="980" as="sourcePoint" />
-            <mxPoint x="120" y="1085" as="targetPoint" />
+            <mxPoint x="170" y="985" as="sourcePoint" />
+            <mxPoint x="320" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-115" value="GRM03. modify anomaly management report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1210" width="160" height="50" as="geometry" />
+          <mxGeometry x="1030" y="1281.25" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-116" value="DAO10. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-116" value="DAO07. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-517.75" y="1352.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-117" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZL6FqzTWpidE5rbKrD5R-72" target="ZL6FqzTWpidE5rbKrD5R-116" edge="1">
@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-118" value="GRM04. delete anomaly management report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1302.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="1030" y="1352.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-129" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZL6FqzTWpidE5rbKrD5R-115" target="ZL6FqzTWpidE5rbKrD5R-142" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -461,13 +461,13 @@
           <mxGeometry x="490" y="380" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-138" value="Detecting Anomaly Occurrences&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="830" width="221.5" height="30" as="geometry" />
+          <mxGeometry x="-560" y="840" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-139" value="Remedying Anomaly Occurrences&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" parent="1" vertex="1">
-          <mxGeometry x="8.5" y="840" width="221.5" height="30" as="geometry" />
+          <mxGeometry x="320" y="845" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-140" value="Generating Reports Management&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="957.5" width="221.5" height="30" as="geometry" />
+          <mxGeometry x="998.5" y="1064" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-142" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="1197.5" width="30" height="60" as="geometry" />
@@ -484,8 +484,8 @@
             <mxPoint x="920" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL6FqzTWpidE5rbKrD5R-150" value="GRM05. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1410" width="200" height="50" as="geometry" />
+        <mxCell id="ZL6FqzTWpidE5rbKrD5R-150" value="GRM02. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="1202.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZL6FqzTWpidE5rbKrD5R-167" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-670" y="665" width="30" height="60" as="geometry" />
@@ -529,7 +529,7 @@
             <mxPoint x="-347" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-10" value="DAO06. Acquire Camera data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAiA5wy59eTJabDKRuq2-10" value="DAO03. Acquire Camera data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-518.5" y="1044" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-11" value="Sensor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -550,7 +550,7 @@
             <mxPoint x="-347" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-18" value="DAO09. determine anomaly type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAiA5wy59eTJabDKRuq2-18" value="DAO06. determine anomaly type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="1272.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-72" target="uAiA5wy59eTJabDKRuq2-18">
@@ -559,10 +559,10 @@
             <mxPoint x="-508" y="1235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-20" value="DAO10. retrieve anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAiA5wy59eTJabDKRuq2-20" value="DAO08. retrieve anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-517.75" y="1430" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-21" value="DAO10. delete anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAiA5wy59eTJabDKRuq2-21" value="DAO09. delete anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-517.75" y="1500" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uAiA5wy59eTJabDKRuq2-20">
@@ -593,60 +593,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-30" value="Actuator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1039" width="30" height="60" as="geometry" />
+          <mxGeometry x="614" y="1044" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-31" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZL6FqzTWpidE5rbKrD5R-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="1060" as="sourcePoint" />
-            <mxPoint x="150" y="1070" as="targetPoint" />
+            <mxPoint x="610" y="1065" as="sourcePoint" />
+            <mxPoint x="350" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-33" value="RAO04. reauest manual remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1130" width="160" height="50" as="geometry" />
+          <mxGeometry x="340" y="1135" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-34" value="RAO04. perform manual remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1210" width="160" height="50" as="geometry" />
+        <mxCell id="uAiA5wy59eTJabDKRuq2-34" value="RAO05. perform manual remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1215" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-35" value="RAO04. check remedy action result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1276.25" width="160" height="50" as="geometry" />
+        <mxCell id="uAiA5wy59eTJabDKRuq2-35" value="RAO06. check remedy &lt;br&gt;action result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1281.25" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uAiA5wy59eTJabDKRuq2-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="980" as="sourcePoint" />
-            <mxPoint x="150" y="1388" as="targetPoint" />
+            <mxPoint x="170" y="985" as="sourcePoint" />
+            <mxPoint x="350" y="1393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-107" target="uAiA5wy59eTJabDKRuq2-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="990" as="sourcePoint" />
-            <mxPoint x="150" y="1465" as="targetPoint" />
+            <mxPoint x="180" y="995" as="sourcePoint" />
+            <mxPoint x="350" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-39" value="RAO06. retrieve result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1420" width="160" height="50" as="geometry" />
+        <mxCell id="uAiA5wy59eTJabDKRuq2-39" value="RAO08. retrieve result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1425" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-40" value="RAO06. delete result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1480" width="160" height="50" as="geometry" />
+        <mxCell id="uAiA5wy59eTJabDKRuq2-40" value="RAO09. delete result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1485" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uAiA5wy59eTJabDKRuq2-41" value="RAO06. modify result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1550" width="160" height="50" as="geometry" />
+        <mxCell id="uAiA5wy59eTJabDKRuq2-41" value="RAO10. modify result of remedy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1555" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-107" target="uAiA5wy59eTJabDKRuq2-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="990" as="sourcePoint" />
-            <mxPoint x="150" y="1388" as="targetPoint" />
+            <mxPoint x="180" y="995" as="sourcePoint" />
+            <mxPoint x="350" y="1393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZL6FqzTWpidE5rbKrD5R-107" target="uAiA5wy59eTJabDKRuq2-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="1246" as="sourcePoint" />
-            <mxPoint x="150" y="1455" as="targetPoint" />
+            <mxPoint x="180" y="1251" as="sourcePoint" />
+            <mxPoint x="350" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uAiA5wy59eTJabDKRuq2-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uAiA5wy59eTJabDKRuq2-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="1240" as="sourcePoint" />
-            <mxPoint x="150" y="1515" as="targetPoint" />
+            <mxPoint x="170" y="1245" as="sourcePoint" />
+            <mxPoint x="350" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
