@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:39:33.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oLemPCN0TJ_HmaZRwzHF" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:39:48.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xUMpYHg6aG7WuscS82p-" version="21.1.8" type="github">
   <diagram name="페이지-1" id="_cIs1WK6O-SLnFNUOiuj">
     <mxGraphModel dx="1564" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-96" value="RMM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Remedy Method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-94">
           <mxGeometry x="100" y="47.5" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-97" value="RMM02. Retieve registered Remedy Method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-94">
+        <mxCell id="WUC7yIEMw71THdxbuktF-97" value="RMM02.&amp;nbsp;Retrieve&amp;nbsp;registered Remedy Method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-94">
           <mxGeometry x="100" y="107.5" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-98" value="RMM03. Modify registered Remedy Method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-94">
@@ -457,7 +457,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-195" value="ATM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Anomaly Type" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-193">
           <mxGeometry x="100" y="45" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-196" value="ATM02. Retieve registered Anomaly Type" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-193">
+        <mxCell id="WUC7yIEMw71THdxbuktF-196" value="ATM02.&amp;nbsp;Retrieve&amp;nbsp;registered Anomaly Type" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-193">
           <mxGeometry x="100" y="105" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-197" value="ATM03. Modify registered Anomaly Type" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-193">
