@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:05:21.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QbKxkFN_63QtfGDOiX0e" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:39:33.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oLemPCN0TJ_HmaZRwzHF" version="21.1.8" type="github">
   <diagram name="페이지-1" id="_cIs1WK6O-SLnFNUOiuj">
-    <mxGraphModel dx="2062" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-3" value="WPM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-1">
           <mxGeometry x="120" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-4" value="WPM02. Retieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-4" value="WPM02.&amp;nbsp;Retrieve&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-1">
           <mxGeometry x="120" y="100" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-5" value="WPM03. Modify&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-1">
@@ -112,7 +112,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-19" value="MPM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-17">
           <mxGeometry x="120" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-20" value="MPM02. Retieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-17">
+        <mxCell id="WUC7yIEMw71THdxbuktF-20" value="MPM02.&amp;nbsp;Retrieve&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-17">
           <mxGeometry x="120" y="100" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-21" value="MPM03. Modify&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-17">
@@ -175,7 +175,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-34" value="MOM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Managed Object" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-32">
           <mxGeometry x="100" y="50" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02. Retieve registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-32">
+        <mxCell id="WUC7yIEMw71THdxbuktF-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02.&amp;nbsp;Retrieve&amp;nbsp;&amp;nbsp;registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-32">
           <mxGeometry x="100" y="110" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM03. Modify registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-32">
@@ -220,7 +220,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-45" value="MPM01. Register Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-43">
           <mxGeometry x="100" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-46" value="MPM02. Retieve registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-43">
+        <mxCell id="WUC7yIEMw71THdxbuktF-46" value="MPM02.&amp;nbsp;Retrieve&amp;nbsp;registered Manufacturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-43">
           <mxGeometry x="100" y="100" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-47" value="MPM03. Modify registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-43">
@@ -310,7 +310,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-107" value="HDM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-105">
           <mxGeometry x="100" y="50" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-108" value="HDM03. Retieve registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-105">
+        <mxCell id="WUC7yIEMw71THdxbuktF-108" value="HDM03.&amp;nbsp;Retrieve&amp;nbsp;registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-105">
           <mxGeometry x="100" y="110" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-109" value="HDM04. Modify registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-105">
@@ -769,7 +769,7 @@
             <mxPoint x="23" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-73" value="RAO08. retrieve result of remedy" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-73" value="RAO08.&amp;nbsp;Retrieve&amp;nbsp;result of remedy" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="13" y="900" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-74" value="RAO09. delete result of remedy" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
@@ -808,7 +808,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-82" value="MMM04. Train ML model" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="141" y="345" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-83" value="MMM04. retrieve ML model" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
+        <mxCell id="WUC7yIEMw71THdxbuktF-83" value="MMM04.&amp;nbsp;Retrieve&amp;nbsp;ML model" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="141.75" y="135" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-84" value="MMM04. delete ML model" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
