@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T03:44:39.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="V4mWA9Mr0RIHvNAo1Ihr" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T03:45:30.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="c-cxidwXyzx-Za2hQjiR" version="21.1.8" type="github">
   <diagram name="페이지-1" id="Hga_ohFz_0wG9BVyc5WL">
     <mxGraphModel dx="2442" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,11 +694,11 @@
             <mxPoint x="403" y="95.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-170" value="Creating ML datasets&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-170" value="Creating Machine learning Datasets&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
           <mxGeometry x="1220" y="200" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-171" value="ML sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="680" width="30" height="60" as="geometry" />
+          <mxGeometry x="1020" y="750" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-172" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="340" width="30" height="60" as="geometry" />
@@ -780,6 +780,12 @@
             <mxPoint x="1070" y="370" as="sourcePoint" />
             <mxPoint x="1171" y="385" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-195" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-197" value="Creating ML datasets&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="530" width="221.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
