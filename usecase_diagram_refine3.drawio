@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:54:48.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4Gy4AaeA9mcnoD3S1O8r" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:59:29.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KmScgFnP33arU0B5CsWY" version="21.1.8" type="github">
   <diagram name="페이지-1" id="_cIs1WK6O-SLnFNUOiuj">
-    <mxGraphModel dx="2327" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WUC7yIEMw71THdxbuktF-216" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000ff;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1140" width="690" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-290" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00ff00;" vertex="1" parent="1">
           <mxGeometry x="240" y="1307.5" width="283" height="100" as="geometry" />
         </mxCell>
@@ -97,17 +100,14 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-291" value="&lt;font color=&quot;#00ff00&quot; style=&quot;font-size: 15px;&quot;&gt;Image Processing management&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="-8.25" y="621.75" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-145" value="GRM06. modify anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
+        <mxCell id="WUC7yIEMw71THdxbuktF-145" value="RM06. modify anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="-168.25" y="1040" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-146" value="GRM07. delete anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
+        <mxCell id="WUC7yIEMw71THdxbuktF-146" value="RM07. delete anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="-168.25" y="1111.25" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-303" value="GRM05. retrieve anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
+        <mxCell id="WUC7yIEMw71THdxbuktF-303" value="RM05. retrieve anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WUC7yIEMw71THdxbuktF-80">
           <mxGeometry x="-168.25" y="968" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-216" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000ff;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="1140" width="690" height="780" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-294" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ffc800;" vertex="1" parent="1">
           <mxGeometry x="-680" y="1410" width="460" height="180" as="geometry" />
@@ -541,7 +541,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-161" value="DAO02. Acquire data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-627.75" y="1259.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-162" value="DAO05. detect anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-162" value="DAO05. detect anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1450" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-164" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-159" target="WUC7yIEMw71THdxbuktF-160">
@@ -562,13 +562,13 @@
             <mxPoint x="-60" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-176" value="DAO10. retrieve anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-176" value="DAO10. retrieve anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-540" y="1760" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-177" value="DAO11. delete anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-177" value="DAO11. delete anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1800" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-180" value="DAO12. modify anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-180" value="DAO12. modify anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1850" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-182" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-159" target="WUC7yIEMw71THdxbuktF-161">
@@ -577,7 +577,7 @@
             <mxPoint x="-600" y="1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-184" value="DAO07. detect anomaly occurence using statistical method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-184" value="DAO07. detect anomaly occurrence using statistical method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-438.13" y="1530" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-185" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;startSize=12;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-183" target="WUC7yIEMw71THdxbuktF-162">
@@ -622,7 +622,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-174" value="DAO08. determine &lt;br style=&quot;font-size: 13px;&quot;&gt;anomaly type" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-293" y="1668.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-166" value="DAO09. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-166" value="DAO09. store anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1718.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-285" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-159" target="WUC7yIEMw71THdxbuktF-166">
@@ -691,7 +691,7 @@
             <mxPoint x="233.62" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-136" value="TDM04. Detect anomaly occurence manually" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-136" value="TDM04. Detect anomaly occurrence manually" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="43.370000000000005" y="1290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-138" target="WUC7yIEMw71THdxbuktF-136">
@@ -721,7 +721,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-232" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 15px;&quot;&gt;Training Data Management&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="66.99000000000001" y="1144" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-183" value="DAO06. detect anomaly occurence using ml" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-183" value="DAO06. detect anomaly occurrence using ml" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1460" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-191" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-187" target="WUC7yIEMw71THdxbuktF-183">
@@ -862,7 +862,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-143" value="Generating report&lt;br style=&quot;font-size: 13px;&quot;&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-73" y="1671" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-144" value="GRM01. enter period &lt;br style=&quot;font-size: 13px;&quot;&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-144" value="RM01. enter period &lt;br style=&quot;font-size: 13px;&quot;&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="67" y="1487.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-147" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-145" target="WUC7yIEMw71THdxbuktF-149">
@@ -886,7 +886,7 @@
             <mxPoint x="-43" y="1406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-152" value="GRM02. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-152" value="RM02. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="57" y="1568.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-153" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-152" target="WUC7yIEMw71THdxbuktF-143">
@@ -895,10 +895,10 @@
             <mxPoint x="-33" y="1594" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-154" value="GRM03. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report pediodically" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-154" value="RM03. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report&amp;nbsp;periodically" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="357" y="1524" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-155" value="GRM04. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report immediately" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-155" value="RM04. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report immediately" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="357" y="1610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-156" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="WUC7yIEMw71THdxbuktF-154" target="WUC7yIEMw71THdxbuktF-152">
