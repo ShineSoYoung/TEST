@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:59:29.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KmScgFnP33arU0B5CsWY" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T08:06:52.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SrR8zXiVpFAFthNXUlj4" version="21.1.8" type="github">
   <diagram name="페이지-1" id="_cIs1WK6O-SLnFNUOiuj">
-    <mxGraphModel dx="1886" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3077" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,7 +739,7 @@
         <mxCell id="WUC7yIEMw71THdxbuktF-55" value="Anomaly remedy&lt;br style=&quot;font-size: 13px;&quot;&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-127" y="519" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WUC7yIEMw71THdxbuktF-56" value="RAO02.&amp;nbsp;Check type of aomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="WUC7yIEMw71THdxbuktF-56" value="RAO02.&amp;nbsp;Check type of anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="270" y="435" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUC7yIEMw71THdxbuktF-57" value="RAO01.&amp;nbsp;Choose appropriate remedy method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
