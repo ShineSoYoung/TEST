@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T02:44:17.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="105a-tVkEXQ7lDd1N0Dy" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T02:50:05.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0_C8GV84c5JnCTyJEh5R" version="21.1.8" type="github">
   <diagram name="페이지-1" id="Hga_ohFz_0wG9BVyc5WL">
-    <mxGraphModel dx="2927" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,6 +693,9 @@
             <mxPoint x="517" y="97" as="sourcePoint" />
             <mxPoint x="403" y="95.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-170" value="Training ML Model&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="140" width="221.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
