@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T17:53:18.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Lv29JCWAhsle6hdOoybo" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T17:54:45.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PBrYzxZ7ISidPVJaeNgu" version="21.1.8" type="github">
   <diagram name="페이지-1" id="NSON1ElTlPPv-P7tvGDg">
-    <mxGraphModel dx="2831" dy="-39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3332" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -661,8 +661,20 @@
         <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-172" value="Remedy Occurence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="871.5" y="2490" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-173" value="Remedy Occurence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="467.5" y="2360" width="290" height="60" as="geometry" />
+        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-173" value="Anomaly Management Session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="2360" width="382.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-175" value="Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="827" y="1930" width="382.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-176" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2134" width="382.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-177" value="Remedy Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="838.75" y="2338" width="382.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEyVBlJ2GwYg8RUqJ2fp-178" value="Statistical Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0000ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="2710" width="382.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
