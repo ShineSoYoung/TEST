@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T04:50:04.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a_cxwlcldc3GlXL0QMGB" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T08:06:48.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wuU5WnYl1ZRcorPEch-p" version="21.1.8" type="github">
   <diagram name="페이지-1" id="Hga_ohFz_0wG9BVyc5WL">
-    <mxGraphModel dx="3827" dy="1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3077" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-29" value="WPM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-210">
           <mxGeometry x="120" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-30" value="WPM02. Retieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-210">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-30" value="WPM02. Retrieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-210">
           <mxGeometry x="120" y="100" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-31" value="WPM03. Modify&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;worker profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-210">
@@ -79,7 +79,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-42" value="MPM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-211">
           <mxGeometry x="120" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-43" value="MPM02. Retieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-211">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-43" value="MPM02. Retrieve&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-211">
           <mxGeometry x="120" y="100" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-44" value="MPM03. Modify&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;manager profile" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-211">
@@ -142,7 +142,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-11" value="MOM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Managed Object" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-216">
           <mxGeometry x="100" y="50" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02. Retieve registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-216">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM02. Retrieve&amp;nbsp;registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-216">
           <mxGeometry x="100" y="110" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MOM03. Modify registered Managed Object&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-216">
@@ -184,16 +184,16 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-1" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
           <mxGeometry y="120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-2" value="MPM01. Register Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-2" value="MPM01. Register Manufacturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
           <mxGeometry x="100" y="40" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-3" value="MPM02. Retieve registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-3" value="MPM02. Retireve registered Manufacturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
           <mxGeometry x="100" y="100" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-4" value="MPM03. Modify registered Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-4" value="MPM03. Modify registered Manufacturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
           <mxGeometry x="100" y="160" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-5" value="MPM04. Uregiste Manufaturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-5" value="MPM04. Uregister Manufacturing plant" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-217">
           <mxGeometry x="100" y="225" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-217" source="D8IrkzfoG79wKrbjq1Is-1" target="D8IrkzfoG79wKrbjq1Is-2">
@@ -229,7 +229,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-82" value="Anomaly remedy&lt;br style=&quot;font-size: 13px;&quot;&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-204">
           <mxGeometry x="70" y="149" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-83" value="RAO02.&amp;nbsp;Check type of aomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-204">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-83" value="RAO02.&amp;nbsp;Check type of anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-204">
           <mxGeometry x="467" y="65" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-84" value="RAO01.&amp;nbsp;Choose appropriate remedy method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-204">
@@ -445,7 +445,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-20" value="HDM01. Register &lt;br style=&quot;font-size: 13px;&quot;&gt;Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-223">
           <mxGeometry x="100" y="50" width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-21" value="HDM03. Retieve registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-223">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-21" value="HDM03. Retrieve&amp;nbsp;registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-223">
           <mxGeometry x="100" y="110" width="163" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-22" value="HDM04. Modify registered Hardware device" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-223">
@@ -520,16 +520,16 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-222" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-87.63" y="1144" width="619.25" height="257.5" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-170" value="Creating Machine learning Datasets&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-170" value="Training Data Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="190" y="10" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-172" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-174" value="CMD01. Acquire data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-174" value="TDM01. Acquire data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="131" y="62.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-175" value="CMD02. Acquire Sensor data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-175" value="TDM02. Acquire Sensor data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="399.25" y="60" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-176" value="Sensor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
@@ -550,7 +550,7 @@
             <mxPoint x="789.25" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-180" value="CMD03. Acquire Camera data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-180" value="TDM03. Acquire Camera data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="399.25" y="160" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-181" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-222" source="D8IrkzfoG79wKrbjq1Is-175" target="D8IrkzfoG79wKrbjq1Is-174">
@@ -565,13 +565,13 @@
             <mxPoint x="321.25" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-184" value="CMD04. Detect anomaly occurence manually" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-184" value="TDM04. Detect anomaly occurence manually" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="131" y="140" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-222" source="D8IrkzfoG79wKrbjq1Is-185" target="D8IrkzfoG79wKrbjq1Is-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-185" value="CMD05. Make datasets &lt;br style=&quot;font-size: 13px;&quot;&gt;for training" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-185" value="TDM05. Make datasets &lt;br style=&quot;font-size: 13px;&quot;&gt;for training" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-222">
           <mxGeometry x="131" y="207.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-192" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-222" source="D8IrkzfoG79wKrbjq1Is-172" target="D8IrkzfoG79wKrbjq1Is-174">
@@ -598,13 +598,13 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-91" value="Generating report&lt;br style=&quot;font-size: 13px;&quot;&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry y="231" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-92" value="GRM01. enter period &lt;br style=&quot;font-size: 13px;&quot;&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-92" value="RM01. enter period &lt;br style=&quot;font-size: 13px;&quot;&gt;to be reported" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="140" y="47.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-95" value="GRM05. modify anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-95" value="RM05. modify anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="140" y="207.25" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-98" value="GRM06. delete anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-98" value="RM06. delete anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="140" y="278.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-99" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-226" source="D8IrkzfoG79wKrbjq1Is-95" target="D8IrkzfoG79wKrbjq1Is-110">
@@ -613,7 +613,7 @@
             <mxPoint x="30" y="-34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-109" value="Generating Reports Management&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-109" value="Reports Management&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="280" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-110" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
@@ -631,7 +631,7 @@
             <mxPoint x="30" y="-34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-113" value="GRM02. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-113" value="RM02. generating anomaly management report" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="130" y="128.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-135" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-226" source="D8IrkzfoG79wKrbjq1Is-113" target="D8IrkzfoG79wKrbjq1Is-91">
@@ -640,10 +640,10 @@
             <mxPoint x="40" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-162" value="GRM03. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report pediodically" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-162" value="RM03. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report pediodically" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="430" y="84" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-163" value="GRM04. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report immediately" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-163" value="RM04. generating &lt;br style=&quot;font-size: 13px;&quot;&gt;report immediately" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-226">
           <mxGeometry x="430" y="170" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-164" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-226" source="D8IrkzfoG79wKrbjq1Is-162" target="D8IrkzfoG79wKrbjq1Is-113">
@@ -670,7 +670,7 @@
         <mxCell id="D8IrkzfoG79wKrbjq1Is-74" value="DAO02. Acquire data" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="152.25" y="153.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-76" value="DAO05. detect anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-76" value="DAO05. detect anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="150" y="244.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-78" value="Statistical analysis&lt;br style=&quot;font-size: 13px;&quot;&gt;sw agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
@@ -688,7 +688,7 @@
             <mxPoint x="321" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-96" value="DAO09. store anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-96" value="DAO09. store anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="152.25" y="418" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-205" source="D8IrkzfoG79wKrbjq1Is-72" target="D8IrkzfoG79wKrbjq1Is-96">
@@ -730,10 +730,10 @@
             <mxPoint x="182" y="409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-129" value="DAO10. retrieve anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-129" value="DAO10. retrieve anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="152.25" y="495.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-130" value="DAO11. delete anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-130" value="DAO11. delete anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="152.25" y="565.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-205" source="D8IrkzfoG79wKrbjq1Is-72" target="D8IrkzfoG79wKrbjq1Is-129">
@@ -748,7 +748,7 @@
             <mxPoint x="182" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-133" value="DAO12. modify anomaly occurence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-133" value="DAO12. modify anomaly occurrence" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="152.25" y="635.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-134" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-205" source="D8IrkzfoG79wKrbjq1Is-72" target="D8IrkzfoG79wKrbjq1Is-133">
@@ -763,10 +763,10 @@
             <mxPoint x="180" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-151" value="DAO06. detect anomaly occurence using ml" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-151" value="DAO06. detect anomaly occurrence using ml" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="420" y="278" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D8IrkzfoG79wKrbjq1Is-152" value="DAO07. detect anomaly occurence using statistical method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
+        <mxCell id="D8IrkzfoG79wKrbjq1Is-152" value="DAO07. detect anomaly occurrence using statistical method" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="D8IrkzfoG79wKrbjq1Is-205">
           <mxGeometry x="370" y="376.5" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D8IrkzfoG79wKrbjq1Is-153" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;startSize=12;fontSize=13;" edge="1" parent="D8IrkzfoG79wKrbjq1Is-205" source="D8IrkzfoG79wKrbjq1Is-151" target="D8IrkzfoG79wKrbjq1Is-76">
