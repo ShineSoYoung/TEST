@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T09:07:21.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RWQDOetVv_yiFZD3WhAE" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:07:38.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Dyeq7rZMeAtEaPm1SmTT" version="21.1.8" type="github">
   <diagram name="페이지-1" id="f1vrqMb9APHspmezzCpp">
     <mxGraphModel dx="627" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="1251" y="1000" width="419" height="240" as="geometry" />
         </mxCell>
         <mxCell id="GucfIMfvVygdEPNxUH_M-9" value="&amp;lt;&amp;lt;Plugin control Layer&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1000" width="227.25" height="30" as="geometry" />
+          <mxGeometry x="1346.88" y="1000" width="227.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GucfIMfvVygdEPNxUH_M-29" value="&amp;lt;&amp;lt;Hardware device abstract layer&amp;gt;&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="830" y="1260" width="850" height="65" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry x="1529.5" y="1175" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GucfIMfvVygdEPNxUH_M-44" value="detection algorithm Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270.5" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400.5" y="1075" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GucfIMfvVygdEPNxUH_M-50" value="&amp;lt;&amp;lt;Explicit invocation Control layer&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1351" y="1035" width="269" height="30" as="geometry" />
+          <mxGeometry x="1326" y="1035" width="269" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GucfIMfvVygdEPNxUH_M-51" value="&amp;lt;&amp;lt;Event-based Control layer&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1330.5" y="1139" width="260" height="30" as="geometry" />
