@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T01:35:33.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zj3VULlxqCmeAlCDLsiY" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T01:39:06.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4ljJUvVHJfqXnT4UQzpo" version="21.1.8" type="github">
   <diagram name="페이지-1" id="rjQ-HQcAYjgOgRgcmTRV">
-    <mxGraphModel dx="4151" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3660" dy="3003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,20 +102,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpu4daQ8uGptTEx4mdCb-198" value="&amp;nbsp;Manager Profile Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1512" y="-910" width="179" height="30" as="geometry" />
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-198" value="&amp;nbsp;Managed Object Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="-910" width="179" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bpu4daQ8uGptTEx4mdCb-199" value="&amp;nbsp;Manager Profile Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1712" y="-910" width="179" height="30" as="geometry" />
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-199" value="&amp;nbsp;Manager Profile &lt;br&gt;Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-1759" y="-910" width="179" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bpu4daQ8uGptTEx4mdCb-200" value="&amp;nbsp;hw device Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1313" y="-910" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1375" y="-910" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bpu4daQ8uGptTEx4mdCb-201" value="&amp;nbsp;anomaly type Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1143" y="-910" width="170" height="30" as="geometry" />
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-201" value="&amp;nbsp;anomaly type &lt;br&gt;Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="-910" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bpu4daQ8uGptTEx4mdCb-202" value="&amp;nbsp;remedy method Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-961" y="-910" width="180" height="30" as="geometry" />
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-202" value="&amp;nbsp;remedy method &lt;br&gt;Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-910" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bpu4daQ8uGptTEx4mdCb-210" value="Detecting Anomaly Occurrences" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="793.85" y="-910" width="193.16" height="30" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="675" y="-663.8" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bpu4daQ8uGptTEx4mdCb-362" value="&amp;nbsp; &amp;nbsp;Worker Profile Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=14;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1974.5" y="-900" width="179" height="30" as="geometry" />
+          <mxGeometry x="-1974.5" y="-910" width="179" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bpu4daQ8uGptTEx4mdCb-365" value="" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=13;entryX=0.16;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.0024" width="80" relative="1" as="geometry">
@@ -2369,6 +2369,15 @@
             <mxPoint as="offset" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-703" value="&amp;nbsp;ML model Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-799" y="-910" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-704" value="&amp;nbsp;report Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="-910" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bpu4daQ8uGptTEx4mdCb-705" value="start / stop &lt;br&gt;anomaly detection" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;size=14;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-85.26999999999998" y="-910" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
