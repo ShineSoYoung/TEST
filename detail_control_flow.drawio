@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:08:45.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FQirTiqpyvxXYsq_rT0R" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:08:51.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6NRTFlksYS9DrTyA--0G" version="21.1.8" type="github">
   <diagram name="페이지-1" id="wbr9RBuPk6cA3em6U8mI">
     <mxGraphModel dx="2369" dy="-389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry x="280" y="2490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqfZXFbvWSECsiiVKAgS-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Anomaly Detection Manager&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
-          <mxGeometry x="-97" y="2140" width="260" height="40" as="geometry" />
+          <mxGeometry x="-200" y="2140" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqfZXFbvWSECsiiVKAgS-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000ff;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-37.25" y="2480" width="387.25" height="70" as="geometry" />
