@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T08:10:28.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qYM3uKQG_Xgdx62zNbhF" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T08:11:17.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JbLWwxL341vG98NxpY1S" version="21.1.8" type="github">
   <diagram name="페이지-1" id="8HG5BicuwFbveNshowm1">
     <mxGraphModel dx="2327" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-1" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;br&gt;Ubuntu 22.10 Server" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-110" y="-730" width="440" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-2" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;JAVA" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-2" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;python" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-100" y="-670" width="410" height="150" as="geometry" />
         </mxCell>
       </root>
