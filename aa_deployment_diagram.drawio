@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T09:19:51.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ErrvgZxJSFueTOEwsrJ3" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T09:20:11.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ob85Rj9BWU_HzoePimK0" version="21.1.8" type="github">
   <diagram name="페이지-1" id="8HG5BicuwFbveNshowm1">
     <mxGraphModel dx="1796" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-32" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;report.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85.5" y="-500" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-36" value="anomaly_detect" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-36" value="anomaly_manage" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-650" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
