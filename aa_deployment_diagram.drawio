@@ -1,65 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T08:58:29.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MO6r8gGrpdP_fGDCOs4o" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T09:11:08.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="H5PuiAahYZeIBay-v1K6" version="21.1.8" type="github">
   <diagram name="페이지-1" id="8HG5BicuwFbveNshowm1">
     <mxGraphModel dx="1669" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-1" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;br&gt;Ubuntu 22.10 Server" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-730" width="540" height="580" as="geometry" />
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-1" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;br&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-730" width="690" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-2" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;library" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-659" width="240" height="150" as="geometry" />
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-2" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;Ubuntu" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-690" width="640" height="260" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-3" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;MySQL" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-500" width="490" height="330" as="geometry" />
+          <mxGeometry x="-90" y="-420" width="640" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-4" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;AnomalyType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="-430" width="145" height="40" as="geometry" />
+          <mxGeometry x="74.5" y="-370" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-6" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;TrainingData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-380" width="145" height="40" as="geometry" />
+          <mxGeometry x="-80" y="-320" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-7" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-430" width="145" height="40" as="geometry" />
+          <mxGeometry x="-80" y="-370" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-8" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;MLModel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="-380" width="145" height="40" as="geometry" />
+          <mxGeometry x="74.5" y="-320" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-9" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;ManagedObject" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-330" width="145" height="40" as="geometry" />
+          <mxGeometry x="-80" y="-270" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-10" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;ManufacturingPlant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="-330" width="145" height="40" as="geometry" />
+          <mxGeometry x="74.5" y="-270" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-11" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;AnomalyOccurrence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-280" width="145" height="40" as="geometry" />
+          <mxGeometry x="-80" y="-220" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-12" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;statisticalMethod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="-280" width="145" height="40" as="geometry" />
+          <mxGeometry x="383" y="-270" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-13" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-230" width="145" height="40" as="geometry" />
+          <mxGeometry x="383" y="-370" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-14" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="-380" width="145" height="40" as="geometry" />
+          <mxGeometry x="229" y="-320" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-15" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="-430" width="145" height="40" as="geometry" />
+          <mxGeometry x="229" y="-370" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-16" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;RemedyMethod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="-280" width="145" height="40" as="geometry" />
+          <mxGeometry x="383" y="-320" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-17" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;RemedyOccurence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="-330" width="145" height="40" as="geometry" />
+          <mxGeometry x="229" y="-270" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-21" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;detector.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-47.5" y="-584" width="145" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-22" value="&amp;lt;&amp;lt;excution Environment&amp;gt;&amp;gt;&lt;br&gt;keras" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-659" width="240" height="150" as="geometry" />
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-21" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;manufacturing.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-624" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-23" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;modeling.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="-584" width="145" height="40" as="geometry" />
+          <mxGeometry x="383" y="-624" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-24" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;manager.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74.5" y="-624" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-25" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;remedy_method.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="-624" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-26" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;worker.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-570" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-27" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;anomaly_type.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-570" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-28" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;managed_object.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70.5" y="-520" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-29" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;remediator.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-520" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-30" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;detector.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-520" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-31" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;training.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-470" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-32" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;report.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-470" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
