@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T09:18:45.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WX3FH8CKWtcVZdvxns5u" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T09:19:51.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ErrvgZxJSFueTOEwsrJ3" version="21.1.8" type="github">
   <diagram name="페이지-1" id="8HG5BicuwFbveNshowm1">
     <mxGraphModel dx="1796" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-33" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;br&gt;GPU" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="560" y="-420" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="bujZLlu2ID5uPZ7i1owJ-35" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=160;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-660" width="630" height="220" as="geometry" />
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-35" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=160;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-660" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-21" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;manufacturing.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69" y="-604" width="145" height="40" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="bujZLlu2ID5uPZ7i1owJ-32" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;report.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85.5" y="-500" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bujZLlu2ID5uPZ7i1owJ-36" value="anomaly_detect" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-650" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
