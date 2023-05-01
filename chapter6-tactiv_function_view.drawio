@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T18:11:36.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Soz_sAwtClonnClCie_i" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T18:11:54.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FK3JJvR5BSxCbzhwfefB" version="21.2.3" type="github">
   <diagram name="페이지-1" id="jo04tA77AV1EWePdSTTo">
     <mxGraphModel dx="1670" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -863,7 +863,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zbjkyzTDcAnJZQnpiGPw-210" value="Training Data Management" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1107.75" width="221.5" height="30" as="geometry" />
+          <mxGeometry x="1080" y="1107.75" width="221.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zbjkyzTDcAnJZQnpiGPw-211" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="840" y="1237.75" width="30" height="60" as="geometry" />
